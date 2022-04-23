@@ -1,6 +1,4 @@
-### Hi there, my name is Killian, also known as Kilalo in the developer world 👋
-
-# Hi there, my name is Killian, also known as Kilalo in the developer world 👋
+## Hi there, my name is Killian, also known as Kilalo in the developer world 👋
 
 My name is Killian, I'm French 🇫🇷 and currently living in Mintreal 🇨🇦. I'm a FullStack developper 💻 and I really enjoy learning new languages and frameworks.
 
