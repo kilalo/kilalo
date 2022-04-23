@@ -28,6 +28,8 @@ My name is Killian, I'm French 🇫🇷 and currently living in Mintreal 🇨�
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kilalo&count_private=true&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilalo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
