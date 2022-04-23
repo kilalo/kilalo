@@ -2,7 +2,7 @@
 
 My name is Killian, I'm French 🇫🇷 and currently living in Mintreal 🇨🇦. I'm a FullStack developper 💻 and I really enjoy learning new languages and frameworks.
 
-Actually:
+### Currently:
 
 - 🔭 I’m currently working on Nest and Angular
 - 🌱 I’m currently learning Nx (mono-repo)
