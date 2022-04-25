@@ -1,6 +1,6 @@
 # Hi there, welcome in my developer world 👋
 
-My name is Killian, I'm French 🇫🇷 and currently living in Mintreal 🇨🇦. I'm a FullStack developper 💻 and I really enjoy learning new languages and frameworks.
+My name is Killian, I'm French 🇫🇷 and currently living in Montreal 🇨🇦. I'm a FullStack developper 💻 and I really enjoy learning new languages and frameworks.
 
 ### Currently:
 
