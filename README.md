@@ -27,11 +27,11 @@ My name is Killian, I'm French 🇫🇷 and currently living in Montreal 🇨�
 ### 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#426](https://github.com/tractr/stack/pull/426) in [tractr/stack](https://github.com/tractr/stack)
-2. 💪 Opened PR [#425](https://github.com/tractr/stack/pull/425) in [tractr/stack](https://github.com/tractr/stack)
-3. 💪 Opened PR [#424](https://github.com/tractr/stack/pull/424) in [tractr/stack](https://github.com/tractr/stack)
-4. 💪 Opened PR [#423](https://github.com/tractr/stack/pull/423) in [tractr/stack](https://github.com/tractr/stack)
-5. 🗣 Commented on [#8169](https://github.com/nrwl/nx/issues/8169) in [nrwl/nx](https://github.com/nrwl/nx)
+1. 💪 Opened PR [#431](https://github.com/tractr/stack/pull/431) in [tractr/stack](https://github.com/tractr/stack)
+2. 💪 Opened PR [#426](https://github.com/tractr/stack/pull/426) in [tractr/stack](https://github.com/tractr/stack)
+3. 💪 Opened PR [#425](https://github.com/tractr/stack/pull/425) in [tractr/stack](https://github.com/tractr/stack)
+4. 💪 Opened PR [#424](https://github.com/tractr/stack/pull/424) in [tractr/stack](https://github.com/tractr/stack)
+5. 💪 Opened PR [#423](https://github.com/tractr/stack/pull/423) in [tractr/stack](https://github.com/tractr/stack)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
