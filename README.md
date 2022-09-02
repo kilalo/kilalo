@@ -27,11 +27,11 @@ My name is Killian, I'm French 🇫🇷 and currently living in Montreal 🇨�
 ### 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/kilalo/resume-vue/pull/1) in [kilalo/resume-vue](https://github.com/kilalo/resume-vue)
-2. 💪 Opened PR [#1](https://github.com/kilalo/resume-vue/pull/1) in [kilalo/resume-vue](https://github.com/kilalo/resume-vue)
-3. 🎉 Merged PR [#452](https://github.com/tractr/stack/pull/452) in [tractr/stack](https://github.com/tractr/stack)
-4. 💪 Opened PR [#453](https://github.com/tractr/stack/pull/453) in [tractr/stack](https://github.com/tractr/stack)
-5. 💪 Opened PR [#452](https://github.com/tractr/stack/pull/452) in [tractr/stack](https://github.com/tractr/stack)
+1. 🎉 Merged PR [#3](https://github.com/kilalo/resume-vue/pull/3) in [kilalo/resume-vue](https://github.com/kilalo/resume-vue)
+2. 💪 Opened PR [#3](https://github.com/kilalo/resume-vue/pull/3) in [kilalo/resume-vue](https://github.com/kilalo/resume-vue)
+3. ❌ Closed PR [#2](https://github.com/kilalo/resume-vue/pull/2) in [kilalo/resume-vue](https://github.com/kilalo/resume-vue)
+4. 💪 Opened PR [#2](https://github.com/kilalo/resume-vue/pull/2) in [kilalo/resume-vue](https://github.com/kilalo/resume-vue)
+5. 🎉 Merged PR [#1](https://github.com/kilalo/resume-vue/pull/1) in [kilalo/resume-vue](https://github.com/kilalo/resume-vue)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
