@@ -27,11 +27,11 @@ My name is Killian, I'm French 🇫🇷 and currently living in Montreal 🇨�
 ### 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/kilalo/nuxtjs-portfolio/pull/1) in [kilalo/nuxtjs-portfolio](https://github.com/kilalo/nuxtjs-portfolio)
-2. 💪 Opened PR [#1](https://github.com/kilalo/nuxtjs-portfolio/pull/1) in [kilalo/nuxtjs-portfolio](https://github.com/kilalo/nuxtjs-portfolio)
-3. 🎉 Merged PR [#3](https://github.com/kilalo/resume-vue/pull/3) in [kilalo/resume-vue](https://github.com/kilalo/resume-vue)
-4. 💪 Opened PR [#3](https://github.com/kilalo/resume-vue/pull/3) in [kilalo/resume-vue](https://github.com/kilalo/resume-vue)
-5. ❌ Closed PR [#2](https://github.com/kilalo/resume-vue/pull/2) in [kilalo/resume-vue](https://github.com/kilalo/resume-vue)
+1. 🎉 Merged PR [#1](https://github.com/kilalo/portfolio-laravel-api/pull/1) in [kilalo/portfolio-laravel-api](https://github.com/kilalo/portfolio-laravel-api)
+2. 💪 Opened PR [#1](https://github.com/kilalo/portfolio-laravel-api/pull/1) in [kilalo/portfolio-laravel-api](https://github.com/kilalo/portfolio-laravel-api)
+3. 🎉 Merged PR [#1](https://github.com/kilalo/nuxtjs-portfolio/pull/1) in [kilalo/nuxtjs-portfolio](https://github.com/kilalo/nuxtjs-portfolio)
+4. 💪 Opened PR [#1](https://github.com/kilalo/nuxtjs-portfolio/pull/1) in [kilalo/nuxtjs-portfolio](https://github.com/kilalo/nuxtjs-portfolio)
+5. 🎉 Merged PR [#3](https://github.com/kilalo/resume-vue/pull/3) in [kilalo/resume-vue](https://github.com/kilalo/resume-vue)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
