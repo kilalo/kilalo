@@ -2,7 +2,7 @@
 
 My name is Killian, I'm French 🇫🇷 and currently living in Montreal 🇨🇦. I'm a FullStack developper 💻 and I really enjoy learning new languages and frameworks.
 
-![](https://komarev.com/ghpvc/?username=logankilpatrick&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=kilalo&color=blueviolet)
 
 ### Currently:
 
