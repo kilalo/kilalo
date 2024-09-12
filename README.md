@@ -38,7 +38,7 @@ My name is Killian, I'm French 🇫🇷 and currently living in Montreal 🇨�
 
 ### ⭐ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats-puce-seven-18.vercel.app/api?username=kilalo&count_private=true&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-ooaqtg7hl-kilalos-projects.vercel.app/api?username=kilalo&count_private=true&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 
