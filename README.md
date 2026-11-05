@@ -38,7 +38,7 @@ My name is Killian, I'm French 🇫🇷 and currently living in Montreal 🇨�
 
 ### ⭐ GitHub Stats
 
-[![Kilalo's GitHub stats](https://github-stats-extended.vercel.app/api?username=kilalo&count_private=true&show_icons=true&hide_border=false&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/stats-organization/github-stats-extended)
+[![Kilalo's GitHub stats](https://github-stats-extended.vercel.app/api?username=kilalo&count_private=true&show=contributions&show_icons=true&hide_border=false&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/stats-organization/github-stats-extended)
 
 ### Languages and Tools:
 
